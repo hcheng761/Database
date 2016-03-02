@@ -1,0 +1,1 @@
+CREATE TABLE Adminmessages (username VARCHAR(20), messages VARCHAR(3000)) PRIMARY KEY(username, messages);

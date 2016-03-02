@@ -1,0 +1,1 @@
+CREATE TABLE boards (name VARCHAR(20), topics INTEGER) PRIMARY KEY(name, topics);

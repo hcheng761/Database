@@ -1,0 +1,2 @@
+CREATE TABLE users (username VARCHAR(20), password VARCHAR(20)) PRIMARY KEY(username, password);
+INSERT INTO users VALUES FROM ("Admin", "1a");

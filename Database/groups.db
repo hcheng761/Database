@@ -1,0 +1,2 @@
+CREATE TABLE groups (name VARCHAR(20), members INTEGER) PRIMARY KEY(name, members);
+INSERT INTO groups VALUES FROM ("PiratesGuild", "0");

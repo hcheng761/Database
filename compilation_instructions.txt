@@ -1,0 +1,23 @@
+Database Application Compilation Instructions
+--------------------------------------------------------------------------------
+
+This program uses C++11 features and was constructed and compiles entirely in
+Visual Studio 2010/2015.
+
+To compile the program in Visual Studio:
+1.	Download and unzip the project file.
+2.	Open Visual Studio and select New > Project from existing code.
+3.	Browse for the folder called 'DBMS' and select it.
+	Here is a representation of the folder hierarchy:
+	
+	<project folder>
+		DBMS
+			Appliction
+			Engine
+			IO Test
+			Parser
+		Database
+
+4. Select a name for the project and click next.
+5. In the drop menu, select Windows Console Application and click finish.
+6. Build and run the program.
